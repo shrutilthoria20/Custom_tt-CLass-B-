@@ -1,0 +1,481 @@
+
+a{
+    text-decoration: none;
+    color: black;
+}
+.row-1{
+    display: flex;
+    width: 100%;
+}
+.day{
+    border: 1px solid black;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bolder;
+    line-height: 40px;
+}
+.row-2{
+    display: flex;
+    width: 100%;
+}
+.lec-1{
+    border: 1px solid black;
+    height: 50px;
+    width: 183px;
+    text-align: center;
+}
+.row-3{
+    display: flex;
+    width: 100%;
+}
+.lec-2{
+    text-align: center;
+    border: 1px solid black;
+    height: 50px;
+    width: 183px;
+}
+.row-4{
+    display: flex;
+    width: 100%;
+}
+.break-1{
+    text-align: center;
+    border: 1px solid black;
+    height: 50px;
+    width: 213px;
+}
+.break-2{
+    text-align: center;
+    border: 1px solid black;
+    height: 50px;
+    width: 100%;
+    line-height: 3px;
+}
+.row-5{
+    display: flex;
+    width: 100%;
+}
+.lec-3{
+    text-align: center;
+    border: 1px solid black;
+    border-bottom: none;
+    height: 50px;
+    width: 183px;
+}
+.mr-2{
+    display: flex;
+}
+.mr-2 .int1{ 
+    border: 1px solid black;
+    border-bottom: none;
+    height: 50px;
+    width: 60px;
+}
+.mr-2 .int2{ 
+    border: 1px solid black;
+    border-bottom: none;
+    height: 50px;
+    width: 59px;
+}
+.mr-2 .int3{ 
+    border: 1px solid black;
+    border-bottom: none;
+    height: 50px;
+    width: 59px;
+}
+.mr-3{
+    display: flex;
+}
+.mr-3 .int1{ 
+    border: 1px solid black;
+    border-bottom: none;
+    height: 50px;
+    width: 60px;
+}
+.mr-3 .int2{ 
+    border: 1px solid black;
+    border-bottom: none;
+    height: 50px;
+    width: 59px;
+}
+.mr-3 .int3{ 
+    border: 1px solid black;
+    border-bottom: none;
+    height: 50px;
+    width: 59px;
+}
+.mr-4{
+    display: flex;
+}
+.mr-4 .int1{ 
+    border: 1px solid black;
+    border-bottom: none;
+    height: 50px;
+    width: 59px;
+}
+.mr-4 .int2{ 
+    border: 1px solid black;
+    border-bottom: none;
+    height: 50px;
+    width: 59px;
+}
+.mr-4 .int3{ 
+    border: 1px solid black;
+    border-bottom: none;
+    height: 50px;
+    width: 59px;
+}
+.mr-6{
+    display: flex;
+}
+.mr-6 .int1{ 
+    border: 1px solid black;
+    border-bottom: none;
+    height: 50px;
+    width: 59px;
+}
+.mr-6 .int2{ 
+    border: 1px solid black;
+    border-bottom: none;
+    height: 50px;
+    width: 59px;
+}
+.mr-6 .int3{ 
+    border: 1px solid black;
+    border-bottom: none;
+    height: 50px;
+    width: 59px;
+}
+.row-6{
+    display: flex;
+    width: 100%;
+}
+.lec-4{
+    text-align: center;
+    border: 1px solid black;
+    border-top: none;
+    height: 50px;
+    width: 183px;
+}
+.mr-1,.mr-5,.mr-7{
+    border-bottom: 2px solid black;
+}
+.mrn-2{
+    display: flex;
+}
+.mrn-2 .int1{ 
+    border: 1px solid black;
+    border-top: none;
+    height: 50px;
+    width: 33%;
+}
+.mrn-2 .int2{ 
+    border: 1px solid black;
+    border-top: none;
+    height: 50px;
+    width: 33%;
+}
+.mrn-2 .int3{ 
+    border: 1px solid black;
+    border-top: none;
+    height: 50px;
+    width: 33%;
+}
+.mrn-3{
+    display: flex;
+}
+.mrn-3 .int1{ 
+    border: 1px solid black;
+    border-top: none;
+    height: 50px;
+    width: 33%;
+}
+.mrn-3 .int2{ 
+    border: 1px solid black;
+    border-top: none;
+    height: 50px;
+    width: 33%;
+}
+.mrn-3 .int3{ 
+    border: 1px solid black;
+    border-top: none;
+    height: 50px;
+    width: 33%;
+}
+.mrn-4{
+    display: flex;
+}
+.mrn-4 .int1{ 
+    border: 1px solid black;
+    border-top: none;
+    height: 50px;
+    width: 33%;
+}
+.mrn-4 .int2{ 
+    border: 1px solid black;
+    border-top: none;
+    height: 50px;
+    width: 33%;
+}
+.mrn-4 .int3{ 
+    border: 1px solid black;
+    border-top: none;
+    height: 50px;
+    width: 33%;
+}
+.mrn-6{
+    display: flex;
+}
+.mrn-6 .int1{ 
+    border: 1px solid black;
+    border-top: none;
+    height: 50px;
+    width: 33%;
+}
+.mrn-6 .int2{ 
+    border: 1px solid black;
+    border-top: none;
+    height: 50px;
+    width: 33%;
+}
+.mrn-6 .int3{ 
+    border: 1px solid black;
+    border-top: none;
+    height: 50px;
+    width: 33%;
+}
+
+.row-7{
+    display: flex;
+    width: 100%;
+}
+.lec-5{
+    text-align: center;
+    border: 1px solid black;
+    border-bottom: none;
+    height: 50px;
+    width: 183px;
+}
+.mrg-4{
+    display: flex;
+}
+.mrg-4 .int1{ 
+    border: 1px solid black;
+    border-bottom: none;
+    height: 50px;
+    width: 59px;
+}
+.mrg-4 .int2{ 
+    border: 1px solid black;
+    border-top: none;
+    height: 50px;
+    width: 58px;
+}
+.mrg-4 .int3{ 
+    border: 1px solid black;
+    border-bottom: none;
+    height: 50px;
+    width: 59px;
+}
+.mrg-5{
+    display: flex;
+}
+.mrg-5 .int1{ 
+    border: 1px solid black;
+    border-bottom: none;
+    height: 50px;
+    width: 59px;
+}
+.mrg-5 .int2{ 
+    border: 1px solid black;
+    border-bottom: none;
+    height: 50px;
+    width: 59px;
+}
+.mrg-5 .int3{ 
+    border: 1px solid black;
+    border-bottom: none;
+    height: 50px;
+    width: 59px;
+}
+
+.row-8{
+    display: flex;
+    width: 100%;
+}
+.lec-6{
+    text-align: center;
+    border: 1px solid black;
+    border-top: none;
+    height: 50px;
+    width: 185px;
+}
+.mrgg-1,.mrgg-2,.mrgg-3,.mrgg-6,.mrgg-7{
+    border-top: 1px solid black;
+}
+.mrgg-4{
+    display: flex;
+}
+.mrgg-4 .int1{ 
+    border: 1px solid black;
+    border-top: none;
+    height: 50px;
+    width: 59px;
+}
+.mrgg-4 .int2{ 
+    border: 1px solid black;
+    border-top: none;
+    height: 50px;
+    width: 58px;
+}
+.mrgg-4 .int3{ 
+    border: 1px solid black;
+    border-top: none;
+    height: 50px;
+    width: 59px;
+}
+.mrgg-5{
+    display: flex;
+}
+.mrgg-5 .int1{ 
+    border: 1px solid black;
+    border-top: none;
+    height: 50px;
+    width: 33%;
+}
+.mrgg-5 .int2{ 
+    border: 1px solid black;
+    border-top: none;
+    height: 50px;
+    width: 33%;
+}
+.mrgg-5 .int3{ 
+    border: 1px solid black;
+    border-top: none;
+    height: 50px;
+    width: 33%;
+}
+.row-9{
+    display: flex;
+}
+.lec-7{
+    text-align: center;
+    border: 1px solid black;
+    border-bottom: none;
+    height: 50px;
+    width: 185px;
+}
+.moo-2 .int1{
+    border-right: 1px solid black;
+    height: 50px;
+    width: 33.33%;
+}
+.moo-4{
+    display: flex;
+}
+.moo-4 .int1{
+    border-right: 1px solid black;
+    height: 50px;
+    width: 60px;
+}
+.moo-4 .int2{
+    border-right: 1px solid black;
+    height: 50px;
+    width: 59px;
+}
+.moo-5{
+    display: flex;
+}
+.moo-5 .int1{
+    border-right: 1px solid black;
+    height: 50px;
+    width: 59px;
+}
+.moo-5 .int2{
+    border-right: 1px solid black;
+    height: 50px;
+    width: 59px;
+}
+.moo-5 .int3{
+    height: 50px;
+    width: 63px;
+}
+
+.row-10{
+    display: flex;
+}
+.lec-8{
+    text-align: center;
+    border: 1px solid black;
+    border-top: none;
+    height: 50px;
+    width: 185px;
+}
+.mon-1,.mon-2,.mon-3,.mon-5,.mon-6,.mon-7{
+    border-top: 1px solid black;
+}
+.mon-4{
+    display: flex;
+}
+.mon-4 .int1{
+    border-right: 1px solid black;
+    height: 50px;
+    width: 59px;
+}
+.mon-4 .int2{
+    border-right: 1px solid black;
+    height: 50px;
+    width: 59px;
+}
+.mor-1:hover,.mor-2:hover,.mor-3:hover,.mor-4:hover,.mor-5:hover{
+    background: black;
+    color: white;
+}
+.morn-2:hover,.morn-3:hover,.morn-4:hover,.morn-5:hover,.morn-6:hover,.morn-7:hover,.morn-8:hover{
+    background: black;
+    color: white;
+}
+.mr-5:hover,.mr-7:hover{
+    background: black;
+    color: white;
+}
+.mrn-5:hover,.mrn-7:hover{
+    background: black;
+    color: white;
+}
+.mrg-2:hover,.mrg-3:hover,.mrg-6:hover{
+    background: black;
+    color: white;
+}
+.mrgg-2:hover,.mrgg-6:hover{
+    background: black;
+    color: white;
+}
+.one:hover{
+    background: black;
+    height: 104px; 
+}
+.one:hover .int1{
+    color: white;
+}
+.two:hover{
+    background: black;
+    height: 104px; 
+}
+.two:hover .int2{
+    color: white;
+}
+.three:hover{
+    background: black;
+    height: 104px; 
+}
+.three:hover .int3{
+    color: white;
+}
+.x:hover .int1{
+    background: black;
+    height: 104px;
+    color: white; 
+}
